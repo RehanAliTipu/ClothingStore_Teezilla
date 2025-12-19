@@ -1,0 +1,130 @@
+{
+  "product1": {
+    "title": " Huwaian Shirt",
+    "brand": "Uniqlo",
+    "price": "$45.00",
+    "category": "Shirts",
+    "description": "Classic grey full-sleeve shirt made from breathable cotton, perfect for office wear or casual layering.",
+    "images": ["img/products/f1.jpg", "img/products/f2.jpg", "img/products/f3.jpg", "img/products/f4.jpg"]
+  },
+  "product2": {
+    "title": "Huwaian  Shirt",
+    "brand": "Zara",
+    "price": "$47.00",
+    "category": "Shirts",
+    "description": "Light blue cotton shirt with full sleeves, tailored for comfort and minimalist everyday style.",
+    "images": ["img/products/f2.jpg", "img/products/f1.jpg", "img/products/f3.jpg", "img/products/f4.jpg"]
+  },
+  "product3": {
+    "title": "Multi Huwaian Shirt",
+    "brand": "H&M",
+    "price": "$44.00",
+    "category": "Shirts",
+    "description": "Soft brown full-sleeve shirt that works for both formal events and weekend wear.",
+    "images": ["img/products/f3.jpg", "img/products/f4.jpg", "img/products/f5.jpg", "img/products/f6.jpg"]
+  },
+  "product4": {
+    "title": "Multi Huwaian Shirt",
+    "brand": "Gap",
+    "price": "$42.00",
+    "category": "Shirts",
+    "description": "Classic white full-sleeve shirt, a wardrobe essential made from pure breathable cotton.",
+    "images": ["img/products/f4.jpg", "img/products/f1.jpg", "img/products/f6.jpg", "img/products/f1.jpg"]
+  },
+  "product5": {
+    "title": "Dark Blue Shirt",
+    "brand": "Levi's",
+    "price": "$48.00",
+    "category": "Shirts",
+    "description": "Stylish dark blue shirt with a slim fit and clean finish, suitable for any season.",
+    "images": ["img/products/f5.jpg", "img/products/f6.jpg", "img/products/f2.jpg", "img/products/f1.jpg"]
+  },
+  "product6": {
+    "title": "Floral Pattern Top",
+    "brand": "Forever 21",
+    "price": "$39.00",
+    "category": "Tops",
+    "description": "Women's floral top with short sleeves and soft-touch fabric, ideal for sunny days and casual wear.",
+    "images": ["img/products/f6.jpg", "img/products/f2.jpg", "img/products/f1.jpg", "img/products/f5.jpg"]
+  },
+  "product7": {
+    "title": "Tropical Hawaiian Trouser",
+    "brand": "Adidas",
+    "price": "$78.00",
+    "category": "Shirts",
+    "description": "Bright floral Hawaiian shirt with tropical sunset tones, crafted for summer outings and comfort.",
+    "images": ["img/products/f7.jpg", "img/products/f2.jpg", "img/products/f3.jpg", "img/products/f4.jpg"]
+  },
+  "product8": {
+    "title": "Palm Print Shirt",
+    "brand": "H&M",
+    "price": "$49.00",
+    "category": "Shirts",
+    "description": "Casual Hawaiian shirt with palm leaves and vibrant colors, ideal for beach getaways.",
+    "images": ["img/products/f8.jpg", "img/products/f1.jpg", "img/products/f3.jpg", "img/products/f4.jpg"]
+  },
+  "product9": {
+    "title": "Ocean Breeze Shirt",
+    "brand": "Zara",
+    "price": "$65.00",
+    "category": "Shirts",
+    "description": "Lightweight Hawaiian shirt with a coastal wave design, easy to pair with shorts or trousers.",
+    "images": ["img/products/n1.jpg", "img/products/n2.jpg", "img/products/n3.jpg", "img/products/n4.jpg"]
+  },
+  "product10": {
+    "title": "Pineapple Shirt",
+    "brand": "Levi's",
+    "price": "$59.99",
+    "category": "Shirts",
+    "description": "Fun Hawaiian shirt with all-over pineapple print, breathable and made for tropical adventures.",
+    "images": ["img/products/n2.jpg", "img/products/n1.jpg", "img/products/n3.jpg", "img/products/n4.jpg"]
+  },
+  "product11": {
+    "title": " Palms Shirt",
+    "brand": "Puma",
+    "price": "$55.00",
+    "category": "Shirts",
+    "description": "Colorful Hawaiian shirt with sunset and palm tree design, relaxed fit for summer lounging.",
+    "images": ["img/products/n3.jpg", "img/products/n4.jpg", "img/products/n5.jpg", "img/products/n7.jpg"]
+  },
+  "product12": {
+    "title": "Multicolor Hawaiyan Shirt",
+    "brand": "Nike",
+    "price": "$35.00",
+    "category": "T-Shirts",
+    "description": "Simple grey shorts with elastic waistband and breathable fabric for everyday comfort.",
+    "images": ["img/products/p1.jpg", "img/products/f1.jpg", "img/products/f3.jpg", "img/products/f4.jpg"]
+  },
+  "product13": {
+    "title": "Floral Cuffed",
+    "brand": "Zara",
+    "price": "$58.00",
+    "category": "Trousers",
+    "description": "Women's trousers with floral design at the cuffs, offering both comfort and bohemian style.",
+    "images": ["img/products/n5.jpg", "img/products/n2.jpg", "img/products/n3.jpg", "img/products/n8.jpg"]
+  },
+  "product14": {
+    "title": "Classic Denim Jacket ",
+    "brand": "Puma",
+    "price": "$35.00",
+    "category": "T-Shirts",
+    "description": "Modern printed graphic tee with lightweight feel and vibrant front artwork for casual fashion.",
+    "images": ["img/products/n7.jpg", "img/products/n4.jpg", "img/products/n8.jpg", "img/products/n3.jpg"]
+  },
+  "product15": {
+    "title": "Basic Tee",
+    "brand": "Adidas",
+    "price": "$29.00",
+    "category": "T-Shirts",
+    "description": "Go-to black T-shirt made from premium cotton, styled for daily comfort and layering.",
+    "images": ["img/products/n4.jpg", "img/products/n7.jpg", "img/products/n8.jpg", "img/products/n5.jpg"]
+  },
+  "product16": {
+    "title": "Graphic Tee",
+    "brand": "Wrangler",
+    "price": "$99.00",
+    "category": "Jackets",
+    "description": "Timeless denim jacket with durable fabric and vintage wash, designed for versatile layering.",
+    "images": ["img/products/n8.jpg", "img/products/p1.jpg", "img/products/n5.jpg", "img/products/n7.jpg"]
+  }
+}
